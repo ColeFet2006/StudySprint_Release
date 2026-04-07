@@ -1,77 +1,135 @@
-Overview
+# Study Sprint
+
+---
+
+## Overview
 
 Study Sprint is a full-stack web application designed to help users create and manage focused study sessions. The goal of this project is to provide a simple, clean, and functional tool for organizing study time and improving productivity.
 
 This project was developed as part of a full-stack web development course and demonstrates the integration of frontend and backend technologies into a working Minimum Viable Product (MVP).
 
-Purpose
+---
+
+## Purpose
 
 The purpose of Study Sprint is to:
 
-Help users track and manage study sessions
-Provide a structured way to stay focused while studying
-Serve as a foundation for a more advanced productivity tool in the future
+* Help users track and manage study sessions
+* Provide a structured way to stay focused while studying
+* Serve as a foundation for a more advanced productivity tool in the future
 
-Tech Stack
-Frontend: React (JavaScript, HTML, CSS)
-Backend: Node.js with Express
-Database: MongoDB
-Other Tools: GitHub for version control
+---
 
-Features
-Create and manage study sessions
-Store session data in a database
-API routes for handling session data
-Full-stack integration between frontend and backend
+## Technology Stack
 
-Installation & Setup
-1. Clone the repository
+* Frontend: React (JavaScript, HTML, CSS)
+* Backend: Node.js with Express
+* Database: MongoDB
+* Version Control: GitHub
+
+---
+
+## Features
+
+* Create and manage study sessions
+* Store session data in a database
+* API routes for handling session data
+* Full-stack integration between frontend and backend
+
+---
+
+## Installation and Setup
+
+### Clone the repository
+
+```bash
 git clone https://github.com/ColeFet2006/Study-Sprint.git
 cd Study-Sprint
-2. Setup Backend
+```
+
+---
+
+### Backend Setup
+
+```bash
 cd server
 npm install
+```
 
-Create a .env file in the server folder and add:
+Create a `.env` file inside the `server` folder and add:
 
+```env
 MONGO_URI=your_mongodb_connection_string
+```
 
-Run the server:
+Start the backend server:
 
+```bash
 npm start
-3. Setup Frontend
+```
+
+---
+
+### Frontend Setup
+
+```bash
 cd ../client
 npm install
 npm start
-📸 Screenshots
+```
 
-(WIP)
+---
 
-Demo Video
+## Screenshots
 
-(WIP)
+WIP
 
-Current Status
+---
 
-This is a basic but functional MVP. It includes core features and working full-stack integration.
+## Demo Video
 
-The application is usable in its current state, but additional improvements are planned.
+WIP
 
-Future Improvements
-Improved UI/UX design
-Additional session tracking features
-Authentication system
-Better responsiveness and styling
-Deployment for public access
+---
 
-Team & Development
+## Current Status
+
+This project is a basic but functional MVP. It includes core features and working full-stack integration.
+
+The application is usable in its current state, with additional improvements planned based on future development and user needs.
+
+---
+
+## Future Improvements
+
+* Improved UI and overall design
+* Additional session tracking features
+* User authentication system
+* Better responsiveness across devices
+* Deployment for public access
+
+---
+
+## Team and Development
 
 This project was developed collaboratively by:
 
-Cole Fetterman
-Nelson
-Zamman
+* Cole Fetterman
+* Nelson
+* Zamman
 
-The project was built over several days of collaboration, including planning, coding, and testing sessions conducted through Discord.
+The project was built over several days of collaboration, including planning, development, and testing sessions conducted through Discord.
 
-Each team member contributed to different aspects of development, including frontend design, backend functionality, and overall project structure.
+Each team member contributed to different aspects of the application, including frontend development, backend functionality, and overall project structure.
+
+---
+
+## Contact
+
+For any questions or feedback, please reach out.
+
+---
+
+## Repository Link
+
+https://github.com/ColeFet2006/Study-Sprint
