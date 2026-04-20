@@ -38,13 +38,6 @@ The purpose of Study Sprint is to:
 
 ---
 
-### Study Notes Input
-<p align="center">
-  <img src="images/notes.png" width="750">
-</p>
-
----
-
 ### Progress Graph
 <p align="center">
   <img src="images/graph.png" width="750">
