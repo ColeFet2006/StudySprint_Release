@@ -164,3 +164,10 @@ https://github.com/ColeFettermanPSU/StudySprint_Release
 - Contributed to design adjustments and user experience improvements  
 
 ---
+
+### Zamman Qureshi
+- **v1.0 (Apr 17, 2026):** Implemented base timer logic (countdown functionality)  
+- **v1.1 (Apr 18, 2026):** Added timer controls (start, pause, reset)  
+- **v1.2 (Apr 19, 2026):** Developed session saving system using LocalStorage  
+- **v1.3 (Apr 20, 2026):** Built dynamic progress graph and session history rendering  
+- Assisted with debugging and ensuring proper data handling throughout the application 
