@@ -155,3 +155,12 @@ https://github.com/ColeFettermanPSU/StudySprint_Release
 - Assisted with debugging and final feature integration across all components  
 
 ---
+
+### Nelson Copete
+- **v1.0 (Apr 17, 2026):** Designed initial UI layout and visual structure  
+- **v1.1 (Apr 18, 2026):** Implemented Penn State themed color scheme and base styling  
+- **v1.2 (Apr 19, 2026):** Styled timer, forms, graph, and navigation elements  
+- **v1.3 (Apr 20, 2026):** Improved responsiveness and overall UI consistency  
+- Contributed to design adjustments and user experience improvements  
+
+---
