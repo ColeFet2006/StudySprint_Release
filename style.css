@@ -267,3 +267,24 @@ textarea {
   background: #fcfdff;
 }
 
+.history-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 700px) {
+  .form-grid {
+    grid-template-columns: 1fr;
+  }
+
+  #timer {
+    font-size: 2.7rem;
+  }
+
+  .hero h1 {
+    font-size: 2rem;
+  }
+}
