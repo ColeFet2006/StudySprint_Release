@@ -74,11 +74,13 @@ https://youtu.be/EjPaV-mmRBs
 
 ## Project Structure
 
-StudySprint_Release/
-├── client/
-├── server/
+StudySprint/
 ├── images/
-└── README.md
+├── server/
+├── README.md
+├── index.html
+├── script.js
+└── style.css
 
 ---
 
