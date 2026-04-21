@@ -179,3 +179,12 @@ https://github.com/ColeFettermanPSU/StudySprint_Release
 - **v1.3 (Apr 20, 2026):** Connected frontend to backend API  
 - **v1.4 (Apr 20, 2026):** Implemented MongoDB session storage and retrieval  
 - Assisted with debugging and ensuring proper data handling throughout the application 
+
+### Nelson Copete
+- **v1.0 (Apr 17, 2026):** Designed initial UI layout and visual structure  
+- **v1.1 (Apr 18, 2026):** Implemented Penn State themed color scheme and base styling  
+- **v1.2 (Apr 19, 2026):** Styled timer, forms, graph, and navigation elements  
+- **v1.3 (Apr 20, 2026):** Improved responsiveness and overall UI consistency  
+- Assisted with UI adjustments after backend integration  
+
+---
